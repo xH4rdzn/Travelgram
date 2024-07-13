@@ -9,4 +9,4 @@
   - Espaçamentos
   - Flexbox
   - E muito mais...
-- Este desafio foi proposto na formação [FullStack](https://www.rocketseat.com.br/formacao/fullstack) da Rocketseat.
+- Este projeto foi feito durante a formação [FullStack](https://www.rocketseat.com.br/formacao/fullstack) da Rocketseat.
